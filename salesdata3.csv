@@ -1,0 +1,13 @@
+date,store_id,product,units_sold,unit_price,region
+2026-01-05,S001,Laptop,5,50000,South
+2026-01-12,S002,Phone,10,25000,South
+2026-02-08,S001,Tablet,8,18000,South
+2026-03-15,S003,Laptop,3,50000,North
+2026-04-10,S002,Phone,12,25000,South
+2026-05-18,S003,Tablet,6,18000,North
+2026-06-20,S001,Laptop,4,50000,South
+2026-07-05,S002,Phone,9,25000,South
+2026-08-14,S003,Tablet,7,18000,North
+2026-09-22,S001,Laptop,2,50000,South
+2026-10-01,S002,Phone,11,25000,South
+2026-11-10,S003,Tablet,5,18000,North
